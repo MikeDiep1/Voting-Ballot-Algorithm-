@@ -1,0 +1,30 @@
+Election Type: CPL
+Number of parties: 6
+Number of ballots: 18
+Number of seats: 3
+
+Candidates:
+Mike: Independent
+Sarah: New Wave
+Joe: Democratic
+Sally: Democratic
+Ahmed: Democratic
+Allen: Republican
+Nikki: Republican
+Taihui: Republican
+Xinyue: Reform
+Nikita: Reform
+Bethany: Green
+
+ Largest remainder calculation: 18 / 3 = 6
+Parties        Votes      First Allocation    Remaining Votes   Second Allocation    Final Seat      % of Vote     % of Seats   
+Independent    2          0                   2                 0                    0               11.0%         0.0%         
+New Wave       0          0                   0                 0                    0               0.0%          0.0%         
+Democratic     6          1                   0                 0                    1               33.0%         33.0%        
+Republican     4          0                   4                 1                    1               22.0%         33.0%        
+Reform         4          0                   4                 1                    1               22.0%         33.0%        
+Green          2          0                   2                 0                    0               11.0%         0.0%         
+Seat Winners
+Joe: Democratic
+Xinyue: Reform
+Allen: Republican
